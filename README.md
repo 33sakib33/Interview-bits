@@ -26,4 +26,4 @@ I’m compiling this list to help provide some sources for practicing for techni
 #### Difference Between Ones and Zeros in Row and Column - LeetCode
 - Problem Description: [Difference Between Ones and Zeros in Row and Column
 ](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
-- Solution: (A two pass solution)(https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/solutions/4403123/two-pass-solution/)
+- Solution: [A two pass solution](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/solutions/4403123/two-pass-solution/)
