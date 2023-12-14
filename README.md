@@ -24,5 +24,5 @@ I’m compiling this list to help provide some sources for practicing for techni
 ### Problems
 
 #### Difference Between Ones and Zeros in Row and Column - LeetCode
-- Problem Description:[Difference Between Ones and Zeros in Row and Column
+- Problem Description: [Difference Between Ones and Zeros in Row and Column
 ](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
