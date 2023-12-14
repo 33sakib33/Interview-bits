@@ -32,7 +32,6 @@ I’m compiling this list to help provide some sources for practicing for techni
 # Web
 
 ## Interesting Bits of Information
-### What are the difference between session-based and token-based authentication?
 
 ### Session-Based vs Token-Based Authentication
 
