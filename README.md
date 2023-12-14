@@ -19,3 +19,10 @@ I’m compiling this list to help provide some sources for practicing for techni
 #### Valid Parentheses - LeetCode
 - Problem Description: [Valid Parentheses - LeetCode](https://leetcode.com/problems/valid-parentheses/)
 
+## Structured Algorithms
+
+### Problems
+
+#### Difference Between Ones and Zeros in Row and Column - LeetCode
+- Problem Description:[Difference Between Ones and Zeros in Row and Column
+](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
