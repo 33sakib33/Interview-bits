@@ -1,5 +1,22 @@
 # Interview-bits
-I’m compiling this list to help provide some sources for practicing for technical interviews in software companies for various technical positions. 
+I’m compiling this list to help provide some sources for practicing for technical interviews in software companies for various technical positions.
+
+## Data Structures and Algorithms
+
+### Linked Lists
+- [Linked List Cycle - LeetCode](#linked-list-cycle)
+
+### Stacks
+- [Valid Parentheses - LeetCode](#valid-parentheses)
+
+## Structured Algorithms
+- [Difference Between Ones and Zeros in Row and Column - LeetCode](#difference-between-ones-and-zeros)
+
+# Web
+
+## Interesting Bits of Information
+- [Session-Based vs Token-Based Authentication](#session-based-vs-token-based-authentication)
+
 
 
 # Data Structures and Algorithms
