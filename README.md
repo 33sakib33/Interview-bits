@@ -1,5 +1,5 @@
 # Interview-bits
-I’m compiling this list to help provide some sources for practicing for technical interviews in software companies for various technical positions.
+Compilation of resources for practicing technical interview questions in software companies across various technical positions.
 
 ## Data Structures and Algorithms
 
@@ -17,38 +17,29 @@ I’m compiling this list to help provide some sources for practicing for techni
 ## Interesting Bits of Information
 - [Session-Based vs Token-Based Authentication](#session-based-vs-token-based-authentication)
 
+---
 
+# Detailed Sections
 
-# Data Structures and Algorithms
+## Data Structures and Algorithms
 
-## Linked Lists
-
-### Problems
+### Linked Lists
 
 #### Linked List Cycle - LeetCode
-- Problem Description: [Linked List Cycle - LeetCode](https://leetcode.com/problems/linked-list-cycle/)
+- **Problem Description:** [Linked List Cycle - LeetCode](https://leetcode.com/problems/linked-list-cycle/)
 
-
-## Stacks
-
-### Problems
+### Stacks
 
 #### Valid Parentheses - LeetCode
-- Problem Description: [Valid Parentheses - LeetCode](https://leetcode.com/problems/valid-parentheses/)
+- **Problem Description:** [Valid Parentheses - LeetCode](https://leetcode.com/problems/valid-parentheses/)
 
-## Structured Algorithms
-
-### Problems
+### Structured Algorithms
 
 #### Difference Between Ones and Zeros in Row and Column - LeetCode
-- Problem Description: [Difference Between Ones and Zeros in Row and Column
-](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
-- Solution: [A two pass solution](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/solutions/4403123/two-pass-solution/)
+- **Problem Description:** [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
+- **Solution:** [A two pass solution](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/solutions/4403123/two-pass-solution/)
 
-
-# Web
-
-## Interesting Bits of Information
+## Web
 
 ### Session-Based vs Token-Based Authentication
 
