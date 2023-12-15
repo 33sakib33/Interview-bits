@@ -1,39 +1,19 @@
-# Interview-bits
-Compilation of resources for practicing technical interview questions in software companies across various technical positions.
+# Interview-bits: Technical Interview Resources
 
-# Table of Contents
-
+## Table of Contents
 1. [Data Structures and Algorithms](#data-structures-and-algorithms)
-   1.1 [Linked Lists](#linked-lists)
-      1.1.1 [Linked List Cycle - LeetCode](#linked-list-cycle---leetcode)
-   1.2 [Stacks](#stacks)
-      1.2.1 [Valid Parentheses - LeetCode](#valid-parentheses---leetcode)
-
-2. [Structured Algorithms](#structured-algorithms)
-   2.1 [Difference Between Ones and Zeros in Row and Column - LeetCode](#difference-between-ones-and-zeros-in-row-and-column---leetcode)
-
-3. [Web](#web)
-   3.1 [Interesting Bits of Information](#interesting-bits-of-information)
-      3.1.1 [Session-Based vs Token-Based Authentication](#session-based-vs-token-based-authentication)
-
-4. [Detailed Sections](#detailed-sections)
-   4.1 [Data Structures and Algorithms](#data-structures-and-algorithms-1)
-      4.1.1 [Linked Lists](#linked-lists-1)
-         4.1.1.1 [Linked List Cycle - LeetCode](#linked-list-cycle---leetcode-1)
-      4.1.2 [Stacks](#stacks-1)
-         4.1.2.1 [Valid Parentheses - LeetCode](#valid-parentheses---leetcode-1)
-   4.2 [Structured Algorithms](#structured-algorithms-1)
-      4.2.1 [Difference Between Ones and Zeros in Row and Column - LeetCode](#difference-between-ones-and-zeros-in-row-and-column---leetcode)
-   4.3 [Web](#web-1)
-      4.3.1 [Session-Based vs Token-Based Authentication](#session-based-vs-token-based-authentication-1)
-
-5. [Database](#database)
-   5.1 [Coalesce vs IsNull](#coalesce-vs-isnull)
-
+    - [Linked Lists](#linked-lists)
+        - [Linked List Cycle - LeetCode](#linked-list-cycle---leetcode)
+    - [Stacks](#stacks)
+        - [Valid Parentheses - LeetCode](#valid-parentheses---leetcode)
+    - [Structured Algorithms](#structured-algorithms)
+        - [Difference Between Ones and Zeros in Row and Column - LeetCode](#difference-between-ones-and-zeros-in-row-and-column---leetcode)
+2. [Web](#web)
+    - [Session-Based vs Token-Based Authentication](#session-based-vs-token-based-authentication)
+3. [Database](#database)
+    - [Coalesce vs IsNull](#coalesce-vs-isnull)
 
 ---
-
-# Detailed Sections
 
 ## Data Structures and Algorithms
 
