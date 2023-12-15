@@ -1,4 +1,4 @@
-# Interview-bits: Technical Interview Resources
+# Interview-bits: A Resource for Technical Interviews in Software Industries
 
 ## Table of Contents
 1. [Data Structures and Algorithms](#data-structures-and-algorithms)
