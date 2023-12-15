@@ -1,21 +1,35 @@
 # Interview-bits
 Compilation of resources for practicing technical interview questions in software companies across various technical positions.
 
-## Data Structures and Algorithms
+# Table of Contents
 
-### Linked Lists
-- [Linked List Cycle - LeetCode](#linked-list-cycle)
+1. [Data Structures and Algorithms](#data-structures-and-algorithms)
+   1.1 [Linked Lists](#linked-lists)
+      1.1.1 [Linked List Cycle - LeetCode](#linked-list-cycle---leetcode)
+   1.2 [Stacks](#stacks)
+      1.2.1 [Valid Parentheses - LeetCode](#valid-parentheses---leetcode)
 
-### Stacks
-- [Valid Parentheses - LeetCode](#valid-parentheses)
+2. [Structured Algorithms](#structured-algorithms)
+   2.1 [Difference Between Ones and Zeros in Row and Column - LeetCode](#difference-between-ones-and-zeros-in-row-and-column---leetcode)
 
-## Structured Algorithms
-- [Difference Between Ones and Zeros in Row and Column - LeetCode](#difference-between-ones-and-zeros)
+3. [Web](#web)
+   3.1 [Interesting Bits of Information](#interesting-bits-of-information)
+      3.1.1 [Session-Based vs Token-Based Authentication](#session-based-vs-token-based-authentication)
 
-# Web
+4. [Detailed Sections](#detailed-sections)
+   4.1 [Data Structures and Algorithms](#data-structures-and-algorithms-1)
+      4.1.1 [Linked Lists](#linked-lists-1)
+         4.1.1.1 [Linked List Cycle - LeetCode](#linked-list-cycle---leetcode-1)
+      4.1.2 [Stacks](#stacks-1)
+         4.1.2.1 [Valid Parentheses - LeetCode](#valid-parentheses---leetcode-1)
+   4.2 [Structured Algorithms](#structured-algorithms-1)
+      4.2.1 [Difference Between Ones and Zeros in Row and Column - LeetCode](#difference-between-ones-and-zeros-in-row-and-column---leetcode)
+   4.3 [Web](#web-1)
+      4.3.1 [Session-Based vs Token-Based Authentication](#session-based-vs-token-based-authentication-1)
 
-## Interesting Bits of Information
-- [Session-Based vs Token-Based Authentication](#session-based-vs-token-based-authentication)
+5. [Database](#database)
+   5.1 [Coalesce vs IsNull](#coalesce-vs-isnull)
+
 
 ---
 
@@ -52,3 +66,14 @@ Compilation of resources for practicing technical interview questions in softwar
 | **Implementation Complexity** | Session management complexities | Simpler storage management, but additional security considerations |
 | **Use Cases** | Traditional web apps | Modern, stateless, distributed apps (SPAs, mobile apps) |
 
+## Database
+
+### Coalesce vs IsNull
+
+**COALESCE:**
+- *Syntax:* `COALESCE(expr1, expr2, ..., exprn)`
+- *Returns:* First non-null expression in the list.
+
+**ISNULL:**
+- *Syntax:* `ISNULL(expr1, expr2)`
+- *Returns:* First argument if not null; otherwise, second argument.
