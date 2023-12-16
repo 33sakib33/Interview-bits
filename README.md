@@ -6,6 +6,8 @@
         - [Linked List Cycle - LeetCode](#linked-list-cycle---leetcode)
     - [Stacks](#stacks)
         - [Valid Parentheses - LeetCode](#valid-parentheses---leetcode)
+    - [Backtracking](#backtracking)
+        - [Combination Sum - LeetCode](#combination-sum---leetcode)
     - [Structured Algorithms](#structured-algorithms)
         - [Difference Between Ones and Zeros in Row and Column - LeetCode](#difference-between-ones-and-zeros-in-row-and-column---leetcode)
 2. [Web](#web)
@@ -26,6 +28,11 @@
 
 #### Valid Parentheses - LeetCode
 - **Problem Description:** [Valid Parentheses - LeetCode](https://leetcode.com/problems/valid-parentheses/)
+
+### Backtracking
+
+#### Combination Sum - LeetCode
+- **Problem Description:** [Combination Sum - LeetCode](https://leetcode.com/problems/combination-sum/)
 
 ### Structured Algorithms
 
