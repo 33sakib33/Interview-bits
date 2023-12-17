@@ -10,6 +10,8 @@
         - [Combination Sum - LeetCode](#combination-sum---leetcode)
     - [Structured Algorithms](#structured-algorithms)
         - [Difference Between Ones and Zeros in Row and Column - LeetCode](#difference-between-ones-and-zeros-in-row-and-column---leetcode)
+    - [Sorting](#sorting)
+        - [Restaurant Customers - CSES Problem Set](#restaurant-customers---cses-problem-set)
 2. [Web](#web)
     - [Session-Based vs Token-Based Authentication](#session-based-vs-token-based-authentication)
 3. [Database](#database)
@@ -39,6 +41,10 @@
 #### Difference Between Ones and Zeros in Row and Column - LeetCode
 - **Problem Description:** [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column)
 - **Solution:** [A two pass solution](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/solutions/4403123/two-pass-solution/)
+
+### Sorting
+#### Restaurant Customers - CSES Problem Set
+- **Problem Description:** [Restaurant Customers - CSES Problem Set](https://cses.fi/problemset/task/1619)
 
 ## Web
 
